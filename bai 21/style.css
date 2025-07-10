@@ -1,0 +1,16 @@
+h1 {
+  color: aqua;
+  font-style: normal;
+}
+h2 {
+  color: blueviolet;
+  font-style: italic;
+}
+th {
+  color: green;
+  font-style: oblique;
+}
+td {
+  color: blue;
+  font-style: inherit;
+}
