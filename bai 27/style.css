@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+  font-style: italic;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#son {
+  color: aqua;
+  font-style: oblique;
+}
+
+.wow {
+  color: green;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.we {
+  font-size: larger;
+}
