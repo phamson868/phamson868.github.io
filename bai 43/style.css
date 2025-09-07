@@ -1,0 +1,19 @@
+body {
+  background-color: blanchedalmond;
+}
+.d h1 {
+  font-size: 40px;
+}
+.d p {
+  font-size: 24px;
+}
+.d {
+  margin: 0 auto;
+  width: 700px;
+  background-color: tomato;
+  text-align: center;
+}
+.d img {
+  width: 300px;
+  height: 300px;
+}
