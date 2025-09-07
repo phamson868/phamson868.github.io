@@ -1,0 +1,27 @@
+.d {
+  padding: 40px;
+  color: saddlebrown;
+  background-color: lightyellow;
+  border: 20px;
+  margin-left: 100px;
+  width: 100px;
+  height: 100px;
+}
+.e {
+  padding: 40px;
+  color: turquoise;
+  background-color: lightgrey;
+  border: 20px;
+  margin-left: 280px;
+  width: 100px;
+  height: 100px;
+}
+.f {
+  padding: 40px;
+  color: darkorange;
+  background-color: lightblue;
+  border: 20px;
+  margin-left: 460px;
+  width: 100px;
+  height: 100px;
+}
